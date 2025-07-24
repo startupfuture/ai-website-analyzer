@@ -1,0 +1,5 @@
+{
+  "name": "AI Website Analyzer",
+  "description": "An assistant that analyzes a website URL and provides recommendations for improvements in UX, web design, SEO, and product attractiveness using Gemini API.",
+  "requestFramePermissions": []
+}
