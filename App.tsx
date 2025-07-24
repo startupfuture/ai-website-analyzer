@@ -57,9 +57,6 @@ const App: React.FC = () => {
       </main>
 
       <footer className="text-center mt-16 py-6 border-t border-slate-700">
-        <p className="text-lg text-slate-400">
-          My technical test.
-        </p>
          <p className="text-lg text-slate-100 mt-1">
           Powered by Roland Llamas.
         </p>
