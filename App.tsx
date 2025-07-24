@@ -58,10 +58,10 @@ const App: React.FC = () => {
 
       <footer className="text-center mt-16 py-6 border-t border-slate-700">
         <p className="text-sm text-slate-400">
-          Powered by Gemini API. For educational and illustrative purposes.
+          For technical test.
         </p>
          <p className="text-xs text-slate-500 mt-1">
-          Always verify AI-generated suggestions with professional expertise.
+          Powered by Roland Llamas.
         </p>
       </footer>
     </div>
