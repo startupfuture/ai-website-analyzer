@@ -4,7 +4,7 @@ import UrlInputForm from './components/UrlInputForm';
 import AnalysisResults from './components/AnalysisResults';
 import LoadingSpinner from './components/LoadingSpinner';
 import ErrorMessage from './components/ErrorMessage';
-import { analyzeWebsite } from './services/geminiService';
+import { analyzeWebsite } from './services/aiService';
 import { AnalysisResult } from './types';
 
 const App: React.FC = () => {

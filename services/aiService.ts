@@ -19,7 +19,7 @@ export const analyzeWebsite = async (url: string): Promise<AnalysisResult> => {
     throw new Error("Gemini API Key is not configured. Please set the API_KEY environment variable.");
   }
   const prompt = `
-    Analyze the website with the URL: ${url}. Act as an expert web consultant.
+    Analyze the website with the URL: ${url}. Act as an expert web consultant using a large language model.
     Provide a detailed analysis and recommendations for improvement across the following categories:
     1. User Experience (UX): Focus on usability, navigation, accessibility, and overall user satisfaction.
     2. Web Design: Evaluate aesthetics, visual hierarchy, branding consistency, and modern design principles.
